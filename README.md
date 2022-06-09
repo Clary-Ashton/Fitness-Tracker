@@ -32,6 +32,12 @@ This project is licensed under [![License: MIT](https://img.shields.io/badge/Lic
 
 ## How to Contribute
 
+Fork the repository or contact me using the details shown below
+
 ## My Contacts
+
+Github: [Clary-Ashton](https://github.com/Clary-Ashton)
+
+email: clarynsik@hotmail.com
 
 
