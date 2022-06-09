@@ -1,12 +1,19 @@
 # Fitness-Tracker [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
+
 *[Description](#description)
+
 *[Installation](#installation)
+
 *[Homepage](#homepage)
+
 *[Statspage](#statspage)
+
 *[License](#license)
+
 *[How to Contribute](#how-to-contribute)
+
 *[My Contacts](#my-contacts)
 
 
@@ -21,7 +28,7 @@ Navigate to ```./Fitness-Tracker``` and run ```npm i```
 ## Statspage
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This project is licensed under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## How to Contribute
 
