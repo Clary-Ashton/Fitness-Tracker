@@ -2,19 +2,19 @@
 
 ## Table of Contents
 
-*[Description](#description)
+* [Description](#description)
 
-*[Installation](#installation)
+* [Installation](#installation)
 
-*[Homepage](#homepage)
+* [Homepage](#homepage)
 
-*[Statspage](#statspage)
+* [Statspage](#statspage)
 
-*[License](#license)
+* [License](#license)
 
-*[How to Contribute](#how-to-contribute)
+* [How to Contribute](#how-to-contribute)
 
-*[My Contacts](#my-contacts)
+* [My Contacts](#my-contacts)
 
 
 ## Description
